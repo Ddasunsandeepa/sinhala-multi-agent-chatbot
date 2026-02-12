@@ -77,3 +77,23 @@ sinhala-multi-agent-chatbot/
 │     └── intent_model.pkl
 │
 └── README.md
+
+
+---
+
+## ⚙️ Technologies Used
+
+- Python 3.x
+- Flask
+- Scikit-learn
+- TF-IDF Vectorizer
+- Logistic Regression
+- HTML5 / CSS3 (Glassmorphism UI)
+- JavaScript (Fetch API)
+
+---
+
+## 🚀 Installation Guide
+
+### 1️⃣ Clone the repository
+
