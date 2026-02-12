@@ -55,6 +55,7 @@ This modular design improves scalability and maintainability.
 
 ##  Project Structure
 
+```
 sinhala-multi-agent-chatbot/
 │
 ├── app.py
@@ -78,7 +79,7 @@ sinhala-multi-agent-chatbot/
 │
 └── README.md
 
-
+```
 ---
 
 ## ⚙️ Technologies Used
