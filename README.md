@@ -6,7 +6,7 @@ This system demonstrates modular AI design, Sinhala language processing, and mac
 
 ---
 
-##  Project Overview
+## Project Overview
 
 This project implements a Sinhala conversational assistant using:
 
@@ -35,7 +35,7 @@ Agent Router
 ↓  
 Specialized Agent  
 ↓  
-Sinhala Response  
+Sinhala Response
 
 ---
 
@@ -53,7 +53,7 @@ This modular design improves scalability and maintainability.
 
 ---
 
-##  Project Structure
+## Project Structure
 
 ```
 sinhala-multi-agent-chatbot/
@@ -80,9 +80,10 @@ sinhala-multi-agent-chatbot/
 └── README.md
 
 ```
+
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - Python 3.x
 - Flask
@@ -94,7 +95,57 @@ sinhala-multi-agent-chatbot/
 
 ---
 
-## 🚀 Installation Guide
+---
 
-### 1️⃣ Clone the repository
+## Machine Learning Details
 
+- Feature Extraction: TF-IDF
+- Classifier: Logistic Regression
+- Balanced training dataset used
+- Hybrid architecture (ML + rule-based fallback)
+
+---
+
+## Key Features
+
+✅ Sinhala Unicode support  
+✅ Multi-Agent architecture  
+✅ Machine learning intent detection  
+✅ Modular design  
+✅ Animated modern UI  
+✅ Extensible knowledge base
+
+---
+
+## Academic Relevance
+
+This project demonstrates:
+
+- Natural Language Processing concepts
+- Intent Classification
+- Text Vectorization
+- Multi-Agent System Design
+- Hybrid AI Architecture
+- Modular Software Engineering
+
+---
+
+## Future Improvements
+
+- Add confidence score threshold
+- Add voice input
+- Integrate Sinhala morphological analysis
+- Deploy to cloud (Heroku / Render)
+- Add database-based learning system
+
+---
+
+## Author
+
+Dasun sandeepa
+
+---
+
+## Conclusion
+
+This Sinhala Multi-Agent Conversational Assistant demonstrates a practical implementation of NLP techniques and machine learning in a modular AI system with a modern web interface.
