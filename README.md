@@ -53,5 +53,27 @@ This modular design improves scalability and maintainability.
 
 ---
 
-## 🏗 Project Structure
+##  Project Structure
 
+sinhala-multi-agent-chatbot/
+│
+├── app.py
+├── static/
+│     └── style.css
+│
+├── templates/
+│     └── index.html
+│
+├── intent/
+│     ├── train_intent_model.py
+│     └── intent_detector_ml.py
+│
+├── agents/
+│
+├── router/
+│
+├── model/
+│     ├── vectorizer.pkl
+│     └── intent_model.pkl
+│
+└── README.md
